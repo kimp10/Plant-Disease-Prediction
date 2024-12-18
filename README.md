@@ -34,3 +34,6 @@ This project aims to predict plant diseases using Convolutional Neural Networks 
 
 ## Contributing:
 Feel free to contribute to this project by creating pull requests or reporting issues. Contributions to improve the accuracy, efficiency, or user interface of the model are welcome!
+
+
+Link: https://plant-disease-prediction-cfjlapra3vd29oyeebu5ts.streamlit.app/
